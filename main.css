@@ -3,10 +3,16 @@ body {
 	font-family: arial;
 }
 
-h1, h2, p, li {
+h1, h2, li {
 	color: #666;
 }
 
 a {
 	color: blue;
 }
+
+p {
+	background: #666
+	color: white;
+}
+
